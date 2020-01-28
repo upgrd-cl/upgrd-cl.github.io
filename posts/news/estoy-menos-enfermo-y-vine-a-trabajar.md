@@ -1,0 +1,8 @@
+---
+title: estoy menos enfermo y vine a trabajar
+excerpt: no quiero trabajar
+date: 2020-01-28T12:52:49.898Z
+---
+SANTIAGO.- El rector de la Universidad de Valparaíso y vicepresidente del Consejo de Rectores (CRUCh), Aldo Valle, se refirió esta mañana a la rendición de los test de Matemáticas y Lenguaje de la Prueba de Selección Universitaria (PSU) realizadas ayer y explicó lo que implican los disturbios percibidos. NOTICIAS RELACIONADAS Rector de la USS afirma que "pueden ser mil estudiantes" quienes no hayan rendido PSU de Matemáticas en el local 10 Presidente Piñera tras jornada de PSU: "El Gobierno estará siempre del lado de los jóvenes que quieren progresar en paz" 188Este lunes, cerca de 110 mil personas rindieron la prueba de Matemáticas en 38 ciudades del país. Según cifras del Demre, organismo dependiente de la Universidad de Chile, el 95,56% de los locales realizó el test con éxito, mientras que en el caso de Santiago fue de un 100%. En el primer caso el porcentaje se debió a disturbios y protestas a las afuera de las sedes, debido a esto, el Ministerio del Interior informó que hubo 68 detenidos. El hecho de que no todos los postulantes pudiera realizar el test implica que el CRUCh tome una decisión respecto de qué hacer. Valle habló esta mañana con Radio Cooperativa y sostuvo que "el proceso está en curso" y que "el CRUCh se va a reunir mañana para evaluar los cursos a seguir sobre estudiantes que no pudieron rendir Matemáticas y analizar el proceso de admisión especial". "Estamos pensando en ampliar el porcentaje (de admisión especial)", agregó.\
+\
+Fuente: Emol.com -<https://www.emol.com/noticias/Nacional/2020/01/28/974862/Valle-locales-no-prueba-Matematicas.html>
