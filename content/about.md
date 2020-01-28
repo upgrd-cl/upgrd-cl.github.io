@@ -8,5 +8,8 @@ team:
   - name: chris
     photo: /uploads/chris.jpg
     position: lead backend and security administrator
+  - name: nacho
+    photo: /uploads/ignacio.jpg
+    position: diseñador y fotógrafo
 ---
 
