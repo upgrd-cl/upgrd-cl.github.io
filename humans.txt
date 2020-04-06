@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ignacio Meneses  -- design & photography
+    Francisco Arenas  -- content + web development
+
+# THANKS
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+
+    The JAMstack
+
+    Node, Gridsome, Pug, Tailwind
